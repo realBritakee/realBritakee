@@ -6,7 +6,7 @@ The Mining Dead Mod
 My first major project is Britakeestudios The Mining Dead. This mod aims to enhance the gaming experience by introducing a large potion of the popular TV series The Walking Dead and it's spin-off's from AMC. I'm excited to continue working on this project and welcome any feedback or contributions.
 
 # 💻 Skills
-Fluent in JSON and mcfunctions
+Curently advancing in Java code.
 
 # 🌐 Connect with Me
 Email: britakeestudios@gmail.com (Please include 'GitHub' in the subject line when sending me an email.)
