@@ -2,8 +2,8 @@
 I'm a passionate gamer and coder who loves to explore the great outdoors when I'm not immersed in the digital world. Whether it's hiking through nature or crafting code, I'm always up for an adventure!
 
 # 🚀 Projects
-ADistantAussie's Economy Add-on
-My first major project is ADistantAussie's Economy Add-on. This add-on aims to enhance the gaming experience by introducing a dynamic economy system. I'm excited to continue working on this project and welcome any feedback or contributions.
+The Mining Dead Mod
+My first major project is Britakeestudios The Mining Dead. This mod aims to enhance the gaming experience by introducing a large potion of the TV series The Walking Dead from AMC. I'm excited to continue working on this project and welcome any feedback or contributions.
 
 # 💻 Skills
 Fluent in JSON and mcfunctions
