@@ -3,7 +3,7 @@ I'm a passionate gamer and coder who loves to explore the great outdoors when I'
 
 # 🚀 Projects
 The Mining Dead Mod
-My first major project is Britakeestudios The Mining Dead. This mod aims to enhance the gaming experience by introducing a large potion of the TV series The Walking Dead from AMC. I'm excited to continue working on this project and welcome any feedback or contributions.
+My first major project is Britakeestudios The Mining Dead. This mod aims to enhance the gaming experience by introducing a large potion of the popular TV series The Walking Dead and it's spin-off's from AMC. I'm excited to continue working on this project and welcome any feedback or contributions.
 
 # 💻 Skills
 Fluent in JSON and mcfunctions
