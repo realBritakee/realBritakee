@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi there!
+I'm a passionate gamer and coder who loves to explore the great outdoors when I'm not immersed in the digital world. Whether it's hiking through nature or crafting code, I'm always up for an adventure!
 
-<!--
-**realBritakee/realBritakee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Projects
+ADistantAussie's Economy Add-on
+My first major project is ADistantAussie's Economy Add-on. This add-on aims to enhance the gaming experience by introducing a dynamic economy system. I'm excited to continue working on this project and welcome any feedback or contributions.
 
-Here are some ideas to get you started:
+# 💻 Skills
+Fluent in JSON and mcfunctions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌐 Connect with Me
+Email: britakeestudios@gmail.com (Please include 'GitHub' in the subject line when sending me an email.)
+Instagram: @Britakee
+X (Twitter): @realBritakee
+CurseForge: realBritakee
+Modrinth: realBritakee
+
+# 💖 Support Me
+If you enjoy my work and would like to support me, you can donate via Ko-fi you could find it in my profile discription!
+
+# 🌲 Off the Screen
+When I'm not coding or gaming, you'll find me exploring the great outdoors. Nature fuels my creativity and provides a perfect balance to my digital pursuits.
