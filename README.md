@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=F16436&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Britakee;Minecraft+%26+Hytale+Mod+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=F16436&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Britakee;Minecraft+%26+Hytale+Mod+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 ---
@@ -7,10 +7,10 @@
 ### ✦ About Me
 I'm a passionate developer from Germany specializing in Minecraft modding (especially NeoForge optimization ports) and pushing the boundaries of what's possible in the upcoming Hytale ecosystem. When I'm not coding, I'm probably experimenting with world generation algorithms or tinkering with shaders!
 
-- 🔭 I’m currently working on **Voxy NeoForge** and **Create City**
-- 🌱 I’m currently learning deeper **OpenGL/Vulkan rendering** for Minecraft
-- 💬 Ask me about **Minecraft modding, Hytale API, and multithreading**
-- 📫 How to reach me: **[Join my Discord Server](https://discord.gg/gCRv62araB)**
+- I’m currently working on **Voxy NeoForge** and **Create City**
+- I’m currently learning deeper **OpenGL/Vulkan rendering** for Minecraft
+- Ask me about **Minecraft modding, Hytale API, and multithreading**
+- How to reach me: **[Join my Discord Server](https://discord.gg/gCRv62araB)**
 
 ---
 
@@ -35,7 +35,7 @@ I'm a passionate developer from Germany specializing in Minecraft modding (espec
 
 ### ✦ Featured Projects
 
-#### 🟩 Minecraft
+#### Minecraft
 | Project | Description | Links |
 |---------|-------------|-------|
 | **[Voxy NeoForge](https://github.com/realBritakee/voxy-neoforge)** | An epic LoD rendering mod for Minecraft, ported specifically to NeoForge. | [![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/user/britakee) |
@@ -43,7 +43,7 @@ I'm a passionate developer from Germany specializing in Minecraft modding (espec
 | **[Lost Cities Subways](https://github.com/realBritakee/Create-Lost-Cities-Subways)** | Enhances the Lost Cities generator with intricate subway networks. | [![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=flat-square&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/create-lost-cities-subways) |
 | **[LCM (Lost Cities Multithreaded)](https://github.com/realBritakee/LCM)** | Massive performance optimizations for background chunk generation. | [![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=flat-square&logo=curseforge&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/lost-cities-multithreaded) |
 
-#### 🟦 Hytale
+#### Hytale
 | Project | Description |
 |---------|-------------|
 | **[Hytale Template Plugin](https://github.com/realBritakee/hytale-template-plugin)** | A robust starting template project to create high-quality plugins for Hytale. |
