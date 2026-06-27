@@ -4,7 +4,7 @@
 
 ---
 
-### ✦ About Me
+### About Me
 I'm a passionate developer from Germany specializing in Minecraft modding (especially NeoForge optimization ports) and pushing the boundaries of what's possible in the upcoming Hytale ecosystem. When I'm not coding, I'm probably experimenting with world generation algorithms or tinkering with shaders!
 
 - I’m currently working on **Voxy NeoForge** and **Create City**
@@ -14,7 +14,7 @@ I'm a passionate developer from Germany specializing in Minecraft modding (espec
 
 ---
 
-### ✦ Technologies & Tools
+### Technologies & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
@@ -33,7 +33,7 @@ I'm a passionate developer from Germany specializing in Minecraft modding (espec
 
 ---
 
-### ✦ Featured Projects
+### Featured Projects
 
 #### Minecraft
 | Project | Description | Links |
@@ -51,7 +51,7 @@ I'm a passionate developer from Germany specializing in Minecraft modding (espec
 
 ---
 
-### ✦ GitHub Statistics
+### GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=realBritakee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Britakee's GitHub Stats" />
